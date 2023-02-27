@@ -1,0 +1,1 @@
+C:\app\AdminBBDD\product\11.2.0\dbhome_2\BIN\sqlplus /nolog "@C:\Users\AdminBBDD\Desktop\Scripts\stopOnuba.sql"
